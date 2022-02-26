@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The battaile on Hopton-Heath in Staffordshire, betweene His Majesties forces under the Right Honourable the Earle of Northampton, and those of the rebels, March 19. Together with a letter from the Lord Compton now Earle of Northampton.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76124</idno>
+            <idno type="STC">Wing B1162</idno>
+            <idno type="STC">Thomason E99_18</idno>
+            <idno type="STC">ESTC R20433</idno>
+            <idno type="EEBO-CITATION">99863897</idno>
+            <idno type="PROQUEST">99863897</idno>
+            <idno type="VID">116113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76124)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116113)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E99[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The battaile on Hopton-Heath in Staffordshire, betweene His Majesties forces under the Right Honourable the Earle of Northampton, and those of the rebels, March 19. Together with a letter from the Lord Compton now Earle of Northampton.</title>
+                  <author>Northampton, James Compton, Earl of, 1622-1681.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hall,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>M.DC XLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains a letter from the Earl of Northampton to his mother describing how his father was killed in battle dated March 22, 1642.</note>
+                  <note>Annotation on Thomason copy: "Aprill 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Northampton, Spencer Compton, --  Earl of, 1601-1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Staffordshire (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116113:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>THE BATTAILE ON HOPTON-HEATH IN STAFFORDSHIRE, Betweene His MAJESTIES Forces under the Right Honourable the Earle of NORTHAMPTON, and thoſe of the Rebels, <hi>March</hi> 19.</p>
+            <p>
+               <hi>Together with A Letter from the Lord</hi> COMPTON <hi>now Earle of</hi> NORTHAMPTON.</p>
+            <p>Printed by <hi>H. Hall.</hi> M.DCXLIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battle">
+            <pb facs="tcp:116113:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:116113:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>THE BATTAILE ON <hi>HOPTON-HEATH.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is too manifeſt what poore ſhifts the Authors of this re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llion have uſed to bring about their deſigns: among whom none have beene more buſie then Sir</hi> William Brereton <hi>and Sir</hi> John Gell, <hi>two that (one would think) have conſpired together to be beaten as often as they unite their mutuall forces. Witneſſe</hi> Aſhby de-la-zouch <hi>and other places where they shamefully have beene worſted by that noble couragious Colonell</hi> Haſtings. <hi>Though I muſt tell you both</hi> Brereton <hi>and</hi> Gell <hi>for their perſonall valour are as notorious Cowards as any in the</hi> ſaw-pit. <hi>I confeſſe indeed,</hi> Gell <hi>dare fight, provided his enemy have beene ſeven yeares dead; his valour having lately shewed it ſelfe againſt the Coffins and Monuments of ſome dead men, whoſe living fac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he durſt not looke upon, as if his buſineſſe lay (like that devil's in the G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpell</hi>) among the Tombes and Sepulchres. <hi>And</hi> Brereton <hi>is as valiant as hee, if lying downe in a ditch, ſtanding behind a hay<g ref="char:EOLhyphen"/>ricke, or riding a full mile from the field, may goe for valour, of which three performances his owne Souldiers confeſſe him guilty. And yet theſe two Champions (to shew they are perfect Cowards) are alwayes raiſing quarrels, and ſeducing His Majeſties ſubjects to kill one ano<g ref="char:EOLhyphen"/>ther; As in many other, ſo in this battaile on</hi> Hopton Heath, <hi>an im<g ref="char:EOLhyphen"/>partiall Relation whereof you here have by an expreſſe from farre bet<g ref="char:EOLhyphen"/>ter hands.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <pb n="2" facs="tcp:116113:3"/>
+                  <!-- PDF PAGE 58 -->
+                  <opener>
+                     <dateline>From <hi>Stafford</hi> 
+                        <date>March 21. 1642.</date>
+                     </dateline>
+                  </opener>
+                  <p>Upon <hi>Friday</hi> laſt having intelligence of the Enemies inten<g ref="char:EOLhyphen"/>tions to approach hither, we marched towards the way wee conceived they would come, and having notice of about two hundred of them quartered in a Towne called <hi>Heywood</hi> in <hi>Staf<g ref="char:EOLhyphen"/>fordſhire</hi> neare to our paſſe, we fell upon them, and after a ſhort skirmiſh beat them from their hold, took and killed above the one halfe of them, the reſt eſcaping by by-wayes ſo that we could not follow them, onely quartered there that night <hi>Sun<g ref="char:EOLhyphen"/>day</hi> being at <hi>Stafford,</hi> about twelve of the clock we had intelli<g ref="char:EOLhyphen"/>gence of S<hi rend="sup">r</hi> 
+                     <hi>W. Brereton</hi> and S<hi rend="sup">r</hi> 
+                     <hi>John Gells</hi> being met with all their forces, being about 3000 Horſe and Foote, placed upon a Heath called <hi>Hopton Heath</hi> neare a Towne called <hi>Weſton</hi> ſome two miles from <hi>Stafford.</hi> We drew out our Horſe and Dra<g ref="char:EOLhyphen"/>gooners being about 900. And the Heath ſeeming faire reſol<g ref="char:EOLhyphen"/>ved to charge them, the breadth of it being more then Musket<g ref="char:EOLhyphen"/>ſhot from incloſure on each ſide. As we advanced we diſcover<g ref="char:EOLhyphen"/>ed Musketeers placed within a walled Cloſe, and ſome Muske<g ref="char:EOLhyphen"/>teers and drakes in hedges on our right wing. Againſt which we ſent ſome of our Musketeers but thoſe being too few to beat them, by order of counſell we advanced with our whole body of Horſe (leaving onely a Reſerve) towards their body, and upon our advancing their Musketeers ran from the hedges, we chargeing their body their Horſe preſently ran, and we for<g ref="char:EOLhyphen"/>ced them to quit their Cannon. But our men following the Execution beyond command, and our Musketeers not com<g ref="char:EOLhyphen"/>ming up, they got ſome of their Cannon againe, yet we brought off 8 peeces. And then rallying up our horſe againe as ſoone as we could, we charged ſome other Horſe which they had neare their Foot, which preſently retreated and ran, and then
+<pb n="3" facs="tcp:116113:3"/>
+                     <!-- PDF PAGE 58 -->Sir <hi>Thomas Byron</hi> at the head of the Princes Regiment charge<g ref="char:EOLhyphen"/>ing their Foot broke in among them, but they having ſome Troops of Horſe neare their Foot, fell upon him, and then he re<g ref="char:EOLhyphen"/>ceived his hurts, bleeding ſo that he was not able to ſtay in the field. But by reaſon of the night and our Horſes being weary we ſtood about a Musket-ſhot from them, and after a time our men being weary, we drew ſomewhat further off, keeping ſtrong parties nearer them. The next morning by breake of day we made ready to fall on againe, but finding no Enemy, we then underſtood that they had marched away in the night about an hour after our parting with them, there we found carriages, with Ammunition and other things, &amp; the fore carriages of their Cannon, which makes us beleeve they have throwne the reſt of their Cannon into ſome pooles therea<g ref="char:EOLhyphen"/>bouts. In this fight (and in that former skirmiſh on <hi>Friday</hi>) we took and killed above 300, and wounded at the leaſt 500 more (for our Horſe charged their Foot which occaſioned ſo many wounded) as their owne men confeſſe whom ſince we tooke priſoners. We have taken above 300 of their Horſe, 8 peeces of Cannon, with a great deal of other Ammunition. <hi>Gell</hi> is certainly hurt but not killed, yet they ſay he was hurt by chance by one of their owne ſouldiers as they went away in the night, and we are apt enough to beleeve it, for he is not too forward to come into danger.</p>
+                  <p>But now we muſt from the ſadneſſe of our ſoules acquaint you with the great loſſe both His Majeſtie and the whole king<g ref="char:EOLhyphen"/>dome have ſuſteined in this action by the death of a moſt Loyall and hardly to be equalled Subject, the moſt noble and moſt va<g ref="char:EOLhyphen"/>liant Earle of <hi>Northampton,</hi> who upon the firſt charge with out horſe, being engaged upon Execution neare their foot, his horſe was ſhot, ſo that he was conſtrained to alight, and being encom<g ref="char:EOLhyphen"/>paſſed with enemies he fought on foot a long time, killing (as they themſelves confeſſe) a Colonel of foot, and ſtriking ano<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:116113:4"/>
+                     <!-- PDF PAGE 59 -->Captain into the breſt with his Poleax, beſides other com<g ref="char:EOLhyphen"/>mon ſouldiers whom he wounded and ſlew, untill ſuch time as he was overborne by multitudes, and then being knockt downe with a musket and grievouſly wounded, and his head-peece ta<g ref="char:EOLhyphen"/>ken off, was offered quarter (as they ſay) but he anſwered that he ſcorned to take quarter from ſuch baſe rogues &amp; Rebels as they were; and ſo fought it out a long while after, till ſuch time as he was ſhine by a blow with a halbert, on the hinder part of his head, receiving at the ſame time another deep wound in his face. Which done, they hurried him away ſo as we all thought he had been taken priſoner<g ref="char:punc">▪</g> for we could not find his body.</p>
+                  <p>The ſadneſſe of this accident would not have left our grea<g ref="char:EOLhyphen"/>teſt Victory without miſery, but yet the grearneſſe of his ex<g ref="char:EOLhyphen"/>ample cannot but make all thoſe that are deſirous of honour to follow him in his ſteps; though none can come nearer him then his brave ſonnes, and eſpecially the Lord <hi>Compton:</hi> In whom we find much gallantry and valour in this laſt acti<g ref="char:EOLhyphen"/>on (wherein he received a ſhot in the legge, but no waies dangerous, and his horſe alſo ſhot under him.) So that ſhould we not ſay, that there is none more fitting, or deſerving to ſerve HIS MAJESTY and the Kingdome in thoſe Commands, and Honourable imployments which his Father enjoyed, then this young Lord, wee ſhould both wrong his Lordſhip, and our owne judgements. Wee are aſſured he will be found to be the inheritor of his Fathers Loyalty and Vertues, and endeavour by ſerving His Maieſty, to revenge his fathers death, and equall him in glorious actions. In which we ſhall be ready to follow him, and are preparing for that purpoſe. We had 25 ſlayne, the cheife whereof were Captaine <hi>Harvy</hi> of my Lords own Regi<g ref="char:EOLhyphen"/>ment, Captain <hi>Baker</hi> lately a ſcholler in <hi>Oxford,</hi> Enſigne <hi>Bowyer,</hi> Captain <hi>Middleton</hi> of Colonel <hi>Haſtings</hi> Regiment, Leiutenant <hi>Greene,</hi> Coronet <hi>Billing</hi> and Coronet <hi>Hall,</hi> who all carried them<g ref="char:EOLhyphen"/>ſelves as gallantly as men could do. There were about ſome twenty hurt, the moſt whereof were Officers; as Sir <hi>Thomas
+<pb n="5" facs="tcp:116113:4"/>
+                        <!-- PDF PAGE 59 -->Byron,</hi> Colonell <hi>Stanhope,</hi> Colonell <hi>Wagſtaffe,</hi> Captaine <hi>Knots<g ref="char:EOLhyphen"/>ford,</hi> Captaine <hi>Richard Bagot,</hi> Captaine <hi>Harvey Bagot,</hi> Captaine <hi>John Clarke,</hi> Captaine <hi>Thomas Harwood,</hi> Maſter <hi>Spencer Lucy,</hi> Lieutenant <hi>Leving,</hi> Coronet <hi>Mettham,</hi> Coronet <hi>Waſhington,</hi> and Maſter <hi>Lancaſter,</hi> beſides my Lord <hi>Compton's</hi> ſhot in the legge, not a man of theſe but expreſſed admirable valour, the ſervice for the time being very hot, and the enemies being a<g ref="char:EOLhyphen"/>bove three times our number, <hi>&amp;c.</hi>
+                  </p>
+                  <p>There can be little added to this expreſſe Relation, wherein though it pleaſed God ſo to defeat the Rebels, yet our loſſe is invaluable in the death of this noble Earle; who as he was early up (being one of the firſt defenders of this righteous cauſe) ſo he continued at ſuch a height of courage and magna<g ref="char:EOLhyphen"/>nimity, as drew all good mens eyes on his honourable actions. Whether the Rebels offered him quarter, or whether he re<g ref="char:EOLhyphen"/>fuſed it when it was offered, is not certaine, for we have it onely from themſelves, who no doubt will make their beſt excuſe for murthering ſo incomparable a Lord. Nor is it im<g ref="char:EOLhyphen"/>probable that he ſcorned their quarter, preferring a preſent honourable death before that vile, wretched, unprofitable captivity, whereof he was aſſured, were he once their priſoner. For as he ſpent his noble endeavours in defence of his King and Country while he lived, ſo he valued not his life when it would be ſerviceable to none but Rebels. He hath beene often heard to ſay, that, <hi>If he out-lived theſe Warres, he was cer<g ref="char:EOLhyphen"/>taine never to have ſo noble a death.</hi> And had we wholly loſt him, it would have fill'd us with too much ſorrow, but that we have ſuch excellent Copies of him in his rare ſonnes, and chiefly in the gallant young Earle himſelfe, who hath ſo much of the father in him, that he only wants time and opportunity to make him more like him. And this you will partly gather by this en<g ref="char:EOLhyphen"/>ſuing Letter which my Lord writ with his own hand to the no<g ref="char:EOLhyphen"/>ble Counteſſe his Mother, two dayes after his Fathers death.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <pb n="6" facs="tcp:116113:5"/>
+                  <!-- PDF PAGE 60 -->
+                  <opener>
+                     <salute>Deare Mother,</salute>
+                  </opener>
+                  <p>ON <hi>Sunday</hi> laſt we got the day of the Rebels, but our loſſe (eſpecially your Honours and mine) is not to be expreſſed. For though it be a generall loſſe to the Kingdome, yet it toucheth us neareſt. But Ma<g ref="char:EOLhyphen"/>dam, Caſualties in this world will happen, &amp; in ſuch a cauſe who would not have ventured both life and fortune? pray'e Madam, let this be your comfort, that it was impoſſible for any to do braver then he did, as appeares by their owne Relation. I ſent a Trumpe<g ref="char:EOLhyphen"/>ter to know what was become of my Father, hee brought me a Letter from Sir <hi>Iohn Gell</hi> and Sir <hi>VVilli<g ref="char:EOLhyphen"/>am Brereton,</hi> aſſuring mee of my Fathers death, ma<g ref="char:EOLhyphen"/>king ſtrange demand for his body, ſuch as were never before heard of in any warre, as all their Ammuniti<g ref="char:EOLhyphen"/>on, Priſoners, and Cannon which we had taken. I ſent them word backe, that their demands were un<g ref="char:EOLhyphen"/>reaſonable, and againſt the Lawes of Armes, but deſi<g ref="char:EOLhyphen"/>red them to give free paſſage to ſome Chirurgeons to embalme him, or to let their Chirurgeons doe it, and I would ſatisfy them for their paines. their laſt An<g ref="char:EOLhyphen"/>ſwer I have ſent in <hi>Philip VVilloughby's</hi> Letter which is, that they will neither ſend the body nor ſuffer our Chirurgeons to come to embalme it, but will ſee their owne Chirurgeons doe it. Their Relation was, that He was aſſaulted by many together, and with
+<pb n="7" facs="tcp:116113:5"/>
+                     <!-- PDF PAGE 60 -->his owne hand killed the Colonel and others alſo, but was unhorſed by the multitude, his horſe being ſhot: But his Armour was ſo good that they could not hurt him, till he was downe, and had undone his head-peece.</p>
+                  <p>'Pray'e Madam, be comforted, and think no man could more honourably have ended this life (fighting for his Religion, his King, and his Country) to be par<g ref="char:EOLhyphen"/>taker of heavenly joies. We muſt certainely follow him, but can hardly hope for ſo brave a death. Thus humbly craving your bleſsing, I ſhall remaine till death</p>
+                  <closer>
+                     <dateline>STAFFORD <date>March, 22. 1642.</date>
+                     </dateline>
+                     <signed>Your obedient Sonne <hi>NORTHAMPTON.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="8" facs="tcp:116113:6"/>
+               <!-- PDF PAGE 61 -->
+Let the Reader now judge, if the <hi>genius</hi> and ſpirit of the Father be not eminent in the ſonne, and whether that hand that wrote this Letter doth not promiſe as great hopes for the good of this Kingdome as any whomſoever of his age and quality. Next you may ſee the Bar<g ref="char:EOLhyphen"/>barouſneſſe of theſe Rebels towards the Corps of the dead, who as they have made ſale of their Allegiance and Loyalty, ſo now have ſhaken hands with all common honeſty, practiſing thoſe inhumanities the ve<g ref="char:EOLhyphen"/>ry <hi>Turks</hi> ſcorne to deſcend to; For the <hi>Mahometans</hi> if they kills Commander that is an Enemy, doe not only embalme the corps, but give it ſafe convoy to the enemies quarters, that the freinds of the dead may give it buriall, as the noble Earle of <hi>Craford</hi> and others that have beene in the warres betwixt the <hi>Polonian</hi> and the <hi>Turke,</hi>can teſtify to be true. And doubtleſſe if the <hi>Turkes</hi> knew what breach of faith given, what robbing, ſtripping naked, nay murther (after Armes delivered up by compoſition) hath beene committed on His Majeſties ſouldiers, it would further harden them againſt Chriſtiani<g ref="char:EOLhyphen"/>ty; unleſſe they conſider that theſe things were done not as they are Chriſtians, but as the worſt of Rebels. And let them not for ſhame object, that wee looſe men of eminencie, but they do not, leſt wee tell the world the reaſon. For as the Commanders of theſe rebellious For<g ref="char:EOLhyphen"/>ces are made up of all Religions and Trades, ſo thoſe few men of qua<g ref="char:EOLhyphen"/>lity that are on their ſide, are driven by their guilt into ditches, and ſaw-pits, any whither out of the reach of danger, as not daring to leave the world with all their ſinnes about them. Therefore were it any cauſe under Heaven but this, that is, were not Religion, Honour, Lear<g ref="char:EOLhyphen"/>ning, Lawes, Nobility, Gentry, Honeſty, and all at ſtake, theſe Noble Lords and Gentlemen would not make their bloud ſo cheape, as to ſpend it on ſuch unworthy enemies, who as they have endeavoured to murther both King and Queene, ſo labour the ruine of every Engliſh Gentleman.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116113:6"/>
+            <!-- PDF PAGE 61 -->
+         </div>
+      </body>
+   </text>
+</TEI>
